@@ -16,7 +16,7 @@ const Project = () => {
     ];
 
     return (
-        <div id='project' className='ml-10 mt-10 mr-10 sm:flex'>
+        <div id='project' className='ml-10 mt-12 mr-10 sm:flex'>
             <div className='sm:w-[30%] mr-10 mb-5 sm:mb-0'>
                 <h1 className='underline font-bold text-3xl mb-5'>Project</h1>
                 <h1 className='mt-10 mb-3'>Shopping App Demo</h1>

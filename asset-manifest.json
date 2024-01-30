@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.6895823c.css",
+    "main.js": "/website/static/js/main.f0563869.js",
+    "static/js/787.61f74e33.chunk.js": "/website/static/js/787.61f74e33.chunk.js",
+    "static/media/AppApk.apk": "/website/static/media/AppApk.31cb9ffea270c348d2ec.apk",
+    "static/media/about.jpg": "/website/static/media/about.3de30ab15641ebb205fa.jpg",
+    "index.html": "/website/index.html",
+    "main.6895823c.css.map": "/website/static/css/main.6895823c.css.map",
+    "main.f0563869.js.map": "/website/static/js/main.f0563869.js.map",
+    "787.61f74e33.chunk.js.map": "/website/static/js/787.61f74e33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6895823c.css",
+    "static/js/main.f0563869.js"
+  ]
+}

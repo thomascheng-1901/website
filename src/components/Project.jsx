@@ -22,7 +22,7 @@ const Project = () => {
     const imagePathAndDescription = {
         "main page" : MainPage,
         "item page" : ItemPage,
-        "profile page" : AboutImage
+        "profile page" : ProfilePage
     }
 
     function getValue(key){
